@@ -1,0 +1,15 @@
+.circular {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 92vh;
+    background-color: black;
+}
+
+.feed {
+    display: flex;  
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}

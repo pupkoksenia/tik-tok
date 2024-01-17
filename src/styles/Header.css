@@ -1,0 +1,11 @@
+.header {
+    background-color: #282c34;
+    height: 8vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding:  0 1em 0 1em;
+    position: sticky;
+    top: 0px;
+  }
